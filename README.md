@@ -1,4 +1,5 @@
 # Bankist
+- > https://freakin23.github.io/Bankist
 
 "Bankist" is an elegant and user-friendly 💼 web application designed to streamline and simplify banking operations. Comprising an HTML file, a CSS file, and a JavaScript file, this project offers a comprehensive digital banking solution with a seamless user interface and engaging functionalities. 
 
